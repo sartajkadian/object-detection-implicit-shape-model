@@ -19,7 +19,7 @@ Install:
 	- To build codebook reading, make readcb_test
 	- To build codebook matching, make match_test
 
-Data:
+Data (Data.7z):
 	- codebooks in ./data/codebooks
 	- multi-scale, multi-rotation, partial occlusion in ./data/testing
 	- training set in ./data/training
