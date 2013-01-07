@@ -1,5 +1,3 @@
-To Build/Run copy the DVD onto the local disk
-
 Dependencies:
 	- g++ (supports c++0x experimental features)
 	- opencv 2.3
